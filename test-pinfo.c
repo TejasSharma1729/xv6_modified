@@ -1,7 +1,7 @@
 #include "types.h"
 #include "stat.h"
 #include "user.h"
-// #include "processInfo.h"
+#include "processInfo.h"
 int main(void)
 {
     struct processInfo info;
